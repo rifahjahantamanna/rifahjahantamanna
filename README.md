@@ -2,27 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Tamanna&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" width="100%"/>
 
-### Fullstack Developer [EDIT: add/confirm your exact designation, e.g. "Fullstack Developer | ML Enthusiast"]
+### Fullstack Developer | AI/ML Enthusiast 
 
 </div>
 
-📍 **Location:** [EDIT: e.g. Dhaka, Bangladesh]
+📍 **Location:** Dhaka, Bangladesh
 📫 **Email:** rifah1119@gmail.com
 
 ---
 
 ### 🧑‍💻 About Me
 
-[EDIT — 2-3 short sentences about yourself. Draft based on your fun fact, feel free to rewrite:]
+
 I'm a fullstack developer from Bangladesh who loves building clean, functional web apps. Outside of code, I enjoy dancing, singing, and I care a lot about eating clean, healthy food. I'm always looking for the next interesting problem to solve.
 
 ---
 
 ### 🔭 Currently
 
-- 🔭 I'm currently working on **[EDIT: e.g. a tourism website / a portfolio project]**
-- 🌱 I'm currently exploring **[EDIT: e.g. Next.js, TensorFlow]**
-- 💬 Ask me about **[EDIT: e.g. React, Node.js, Python]**
+- 🔭 I'm currently working on **Kidora/ a kid learning platform**
+- 🌱 I'm currently exploring **Next.js, Prisma**
+- 💬 Ask me about **React, Node.js, Python**
 - ⚡ Fun fact: I enjoy dancing and singing, and I like my food clean.
 
 ---
