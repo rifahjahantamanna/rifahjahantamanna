@@ -14,6 +14,7 @@
 ### 🧑‍💻 About Me
 
 I'm a Computer Science graduate and Full Stack Developer from Bangladesh who enjoys building scalable web applications and exploring AI-powered solutions. My interests include backend development, data analytics, and machine learning. I'm currently looking for Software Engineer opportunities where I can continue learning and contribute to real-world products.
+ |"Failure is not the problem. Fear of failure is!"
 
 ---
 
