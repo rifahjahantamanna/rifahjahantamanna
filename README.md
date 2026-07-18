@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Tamanna&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Rifah%20Jahan%20Tamanna&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" width="100%"/>
 
-### Fullstack Developer [EDIT: add/confirm your exact designation, e.g. "Fullstack Developer | ML Enthusiast"]
+### Fullstack Developer | AI/ML Enthusiast
 
 </div>
 
-📍 **Location:** [EDIT: e.g. Dhaka, Bangladesh]
+📍 **Location:** Dhaka, Bangladesh
 📫 **Email:** rifah1119@gmail.com
 
 ---
 
 ### 🧑‍💻 About Me
 
-[EDIT — 2-3 short sentences about yourself. Draft based on your fun fact, feel free to rewrite:]
-I'm a fullstack developer from Bangladesh who loves building clean, functional web apps. Outside of code, I enjoy dancing, singing, and I care a lot about eating clean, healthy food. I'm always looking for the next interesting problem to solve.
+I'm a Computer Science graduate and Full Stack Developer from Bangladesh who enjoys building scalable web applications and exploring AI-powered solutions. My interests include backend development, data analytics, and machine learning. I'm currently looking for Software Engineer opportunities where I can continue learning and contribute to real-world products.
 
 ---
 
 ### 🔭 Currently
 
-- 🔭 I'm currently working on **[EDIT: e.g. a tourism website / a portfolio project]**
-- 🌱 I'm currently exploring **[EDIT: e.g. Next.js, TensorFlow]**
-- 💬 Ask me about **[EDIT: e.g. React, Node.js, Python]**
+- 🔭 Building: Full Stack Projects
+- 🌱 Learning:
+  **Next.js • TypeScript • System Design**
+- 💬 Ask me about **React • Node.js • Express • PostgreSQL**
 - ⚡ Fun fact: I enjoy dancing and singing, and I like my food clean.
 
 ---
@@ -89,11 +89,6 @@ I'm a fullstack developer from Bangladesh who loves building clean, functional w
 **GitHub Contributions:**
 
 ![Snake animation](https://github.com/rifahjahantamanna/rifahjahantamanna/blob/output/github-contribution-grid-snake.svg)
-
-**GitHub Stats:**
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifahjahantamanna&show_icons=true&theme=default&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifahjahantamanna&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 **Streak:**
 
